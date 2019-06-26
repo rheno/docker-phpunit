@@ -10,5 +10,7 @@
 
 4. `vendor/bin/phpunit`
 
-5. Results :
+5. Screenshot :
+
+![Screenshot](screenshot.png)
 
